@@ -2,5 +2,6 @@ h1 {
   color: red;
 }
 p {
-  color: gray;
+  color: blue;
+  font-size: 22px;
 }
